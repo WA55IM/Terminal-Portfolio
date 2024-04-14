@@ -2,7 +2,7 @@
 
 import * as bin from './index';
 import config from '../../../config.json';
-import MyPhoto from '../../assets/headshot.png'
+import MyPhoto from '../../assets/headshot.png';
 
 // Help
 export const help = async (args: string[]): Promise<string> => {
