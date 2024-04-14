@@ -1,16 +1,16 @@
 {
-  "readmeUrl": "https://raw.githubusercontent.com/cveinnt/cveinnt/master/README.md",
-  "title": "LiveTerm",
-  "name": "John Doe",
-  "ascii": "liveterm",
+  "readmeUrl": "https://raw.githubusercontent.com/WA55IM/Terminal-Portfolio/main/README.md",
+  "title": "Wassim Cherif | Portfolio",
+  "name": "Wassim Cherif",
+  "ascii": "wassim",
   "social": {
-    "github": "github",
-    "linkedin": "linkedin"
+    "github": "WA55IM",
+    "linkedin": "wassimcherif"
   },
-  "email": "contact@email.com",
-  "ps1_hostname": "liveterm",
-  "ps1_username": "visitor",
-  "repo": "https://github.com/Cveinnt/LiveTerm",
+  "email": "wassim.cherif123@gmail.com",
+  "ps1_hostname": "Wassim's_Portfolio",
+  "ps1_username": "guest",
+  "repo": "https://github.com/WA55IM/Terminal-Portfolio",
   "resume_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Resume.pdf",
   "donate_urls": {
     "paypal": "https://paypal.me/cveinnt",
